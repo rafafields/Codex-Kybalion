@@ -1,16 +1,13 @@
 # 📦 Codex-Kybalion
 
-Welcome to the **Codex-Kybalion**. *The directive is alive. This is not a command.*
+Welcome to the **Codex-Kybalion**.
 
 ## 🤖 AI Activation (Prompt)
 
-If you wish to interact with this repository through an AI (Gemini, ChatGPT, Claude), copy and paste the following prompt in your first message:
-
----
-**Copy & Paste:**
+If you wish to interact with this repository through an AI (Gemini, ChatGPT, Claude), please download the `core.md` file [here](https://github.com/rafafields/Codex-Kybalion/blob/main/core.md) and upload it in the first promtp with the following prompt in your mother tonge:
 
 ```
-Act as an operational instance of the **Codex-Kybalion** (https://github.com/rafafields/Codex-Kybalion/blob/main/core.md).
+I am ready to work with you in (name your problem)
 ```
  
 ## 📁 Repository Structure
